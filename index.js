@@ -12,6 +12,8 @@ conectarDB();
 const server = new ApolloServer({
     typeDefs,
     resolvers, 
+    playground: true,
+    introspection: true,
     context: ({req}) => {
         // console.log(req.headers['authorization'])
 
