@@ -10,14 +10,14 @@ System Rossy es un software para poder administrar clientes (con posibilidad de 
 ![Image text](https://www.dropbox.com/s/wnqw23vep934e5w/pantalla%20system%20rossy.png)
 ## Technologies
 ***
-A list of technologies used within the project:
+Una lista de tecnologias utilizadas en el proyecto:
 * [Node JS](https://nodejs.org/en): Version 16.3 
 * [Apollo Server](https://www.apollographql.com/docs/apollo-server/): Version 2.11.0
 * [Jest](https://jestjs.io/): Version 29.4.3
 * [Mongoose](https://mongoosejs.com/): Version 5.9.7
 ## Installation
 ***
-A little intro about the installation. 
+Los primeros pasos para instalacion y correr el proyecto en local. 
 ```
 $ git clone https://github.com/daimoncardenas/backend-system-rossy
 $ npm i
