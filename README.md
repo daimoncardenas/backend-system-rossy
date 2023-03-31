@@ -7,7 +7,7 @@
 ***
 System Rossy es un software para poder administrar clientes (con posibilidad de poder ampliarlo a productos y envios). 
 ### Screenshot
-![Image text](https://www.dropbox.com/s/wnqw23vep934e5w/pantalla%20system%20rossy.png)
+![Image text](https://github.com/daimoncardenas/backend-system-rossy/blob/master/pantalla%20system%20rossy.png)
 ## Technologies
 ***
 Una lista de tecnologias utilizadas en el proyecto:
